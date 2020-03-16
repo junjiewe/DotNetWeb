@@ -1,0 +1,1 @@
+ı 2xmlXIhr=packages/Newtonsoft.Json.12.0.2/lib/net35/Newtonsoft.Json.xml

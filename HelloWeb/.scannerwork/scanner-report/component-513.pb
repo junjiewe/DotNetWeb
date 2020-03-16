@@ -1,0 +1,1 @@
+Å 2xmlX•Whr=packages/Newtonsoft.Json.12.0.2/lib/net45/Newtonsoft.Json.xml

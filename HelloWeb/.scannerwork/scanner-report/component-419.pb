@@ -1,0 +1,1 @@
+£ 2xmlXè hrfpackages/MSTest.TestFramework.1.2.0/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml

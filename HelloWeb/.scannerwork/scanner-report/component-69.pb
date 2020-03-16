@@ -1,0 +1,1 @@
+E 2xmlXšhr(HelloWeb/bin/System.Web.Optimization.xml

@@ -1,0 +1,1 @@
+’ 2xmlXÔ!hrNHelloWeb.Tests/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml

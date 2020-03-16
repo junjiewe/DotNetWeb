@@ -1,0 +1,1 @@
+É 2xmlXÌThrFpackages/Newtonsoft.Json.12.0.2/lib/netstandard1.0/Newtonsoft.Json.xml

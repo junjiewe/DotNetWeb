@@ -1,0 +1,1 @@
+ë 2xmlXÔ!hrepackages/MSTest.TestFramework.1.2.0/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML

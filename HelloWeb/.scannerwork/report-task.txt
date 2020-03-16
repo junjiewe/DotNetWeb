@@ -1,0 +1,6 @@
+projectKey=oneWebPipeline
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=oneWebPipeline
+ceTaskId=AXDj8ThsjPDRAQ-gxK9X
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXDj8ThsjPDRAQ-gxK9X

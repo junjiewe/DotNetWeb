@@ -1,0 +1,1 @@
+Ó 2xmlXë hropackages/MSTest.TestFramework.1.2.0/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml

@@ -1,0 +1,1 @@
+¢ 2xmlX¤hr6HelloWeb.Tests/bin/Debug/System.Web.WebPages.Razor.xml

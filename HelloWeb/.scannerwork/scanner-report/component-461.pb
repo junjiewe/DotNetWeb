@@ -1,0 +1,1 @@
+Í 2xmlXÔ!hrlpackages/MSTest.TestFramework.1.2.0/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML
