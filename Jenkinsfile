@@ -7,7 +7,7 @@ node {
 	}
 
 	stage('Nuget') {
-		bat '"C:\ProgramData\chocolatey\bin\nuget.exe" restore HelloWeb/HelloWeb.sln'
+	bat '"C:\\ProgramData\\chocolatey\\bin\\nuget.exe" restore HelloWeb\\HelloWeb.sln'
 	}
 
 	stage('Build') {
