@@ -2,7 +2,7 @@ node {
 	
 	stage('Checkout') {
 
-			git 'https://github.com/junjiewe/DotnetWeb.git'
+			git 'https://github.com/junjiewe/DotNetWeb.git'
 
 	}
 
